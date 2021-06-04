@@ -11,6 +11,7 @@ Backend is utilized from chatEngine.io
 
 # Credentials for Testing Purpose
 Username: Test1
+
 Password: 123456
 
 # Demo
@@ -18,6 +19,7 @@ Link: https://chat-app-aamir.netlify.app/
 
 # Usage
 $ npm install
+
 $ npm start
 
 # Contributing
